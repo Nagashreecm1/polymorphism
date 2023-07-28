@@ -1,0 +1,3 @@
+C:\dialytask\Assisted Practice\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\polymorphism\obj\Debug\polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
